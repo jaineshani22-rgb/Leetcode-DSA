@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0212-word-search-ii) |
 ## Math
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0212-word-search-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0212-word-search-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -101,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0212-word-search-ii) |
+## Matrix
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
