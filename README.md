@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 ## Math
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -83,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0208-implement-trie-prefix-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
