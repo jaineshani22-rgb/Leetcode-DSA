@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0205-isomorphic-strings](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0213-house-robber-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0213-house-robber-ii) |
 ## Rolling Hash
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Manacher
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0214-shortest-palindrome](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0214-shortest-palindrome) |
 ## Z Algorithm
 |  |
@@ -187,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0218-the-skyline-problem) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
