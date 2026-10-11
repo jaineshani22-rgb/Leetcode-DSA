@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0216-combination-sum-iii) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0212-word-search-ii) |
+| [0216-combination-sum-iii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0216-combination-sum-iii) |
 ## Matrix
 |  |
 | ------- |
