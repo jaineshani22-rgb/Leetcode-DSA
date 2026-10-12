@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0220-contains-duplicate-iii) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0220-contains-duplicate-iii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0220-contains-duplicate-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -193,8 +196,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0220-contains-duplicate-iii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
