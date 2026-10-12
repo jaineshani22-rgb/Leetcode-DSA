@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0220-contains-duplicate-iii) |
+| [0221-maximal-square](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0221-maximal-square) |
 ## Math
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0221-maximal-square) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0213-house-robber-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0221-maximal-square) |
 ## Rolling Hash
 |  |
 | ------- |
