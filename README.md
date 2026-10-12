@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0223-rectangle-area) |
 ## Enumeration
 |  |
 | ------- |
@@ -221,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
