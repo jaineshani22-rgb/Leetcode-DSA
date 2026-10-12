@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0218-the-skyline-problem) |
+| [0219-contains-duplicate-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0219-contains-duplicate-ii) |
 ## Math
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0219-contains-duplicate-ii) |
 ## Depth-First Search
 |  |
 | ------- |
