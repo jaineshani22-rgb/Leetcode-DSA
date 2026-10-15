@@ -85,11 +85,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0226-invert-binary-tree](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -222,10 +224,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 ## Geometry
 |  |
 | ------- |
