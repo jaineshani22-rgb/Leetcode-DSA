@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0224-basic-calculator) |
 ## Array
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0224-basic-calculator) |
 ## Enumeration
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0224-basic-calculator) |
 ## Sliding Window
 |  |
 | ------- |
@@ -226,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0223-rectangle-area) |
+## Stack
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
