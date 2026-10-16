@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -158,12 +160,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0212-word-search-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0221-maximal-square) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0218-the-skyline-problem) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
