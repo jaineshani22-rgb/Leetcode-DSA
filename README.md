@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0264-ugly-number-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0264-ugly-number-ii) |
 ## String
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0264-ugly-number-ii) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0264-ugly-number-ii) |
 ## Quickselect
 |  |
 | ------- |
