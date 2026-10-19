@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0273-integer-to-english-words](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0273-integer-to-english-words) |
 ## Array
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0268-missing-number) |
+| [0273-integer-to-english-words](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0273-integer-to-english-words) |
 ## Enumeration
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0273-integer-to-english-words](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0273-integer-to-english-words) |
 ## Sliding Window
 |  |
 | ------- |
