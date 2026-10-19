@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0274-h-index) |
 ## Math
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0274-h-index) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -345,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
