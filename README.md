@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -366,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0279-perfect-squares) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
