@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 ## Graph Theory
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0212-word-search-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 ## Matrix
 |  |
 | ------- |
