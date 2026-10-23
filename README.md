@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 ## Math
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 ## Rolling Hash
 |  |
 | ------- |
