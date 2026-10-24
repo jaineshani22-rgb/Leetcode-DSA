@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
+| [0316-remove-duplicate-letters](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0316-remove-duplicate-letters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
+| [0316-remove-duplicate-letters](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0316-remove-duplicate-letters) |
 ## Queue
 |  |
 | ------- |
@@ -382,4 +384,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
