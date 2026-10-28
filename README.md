@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0316-remove-duplicate-letters) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Geometry
 |  |
 | ------- |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0316-remove-duplicate-letters) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Queue
 |  |
 | ------- |
