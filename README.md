@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0324-wiggle-sort-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0330-patching-array) |
+| [0332-reconstruct-itinerary](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0332-reconstruct-itinerary) |
 ## Math
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0316-remove-duplicate-letters) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0332-reconstruct-itinerary](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0332-reconstruct-itinerary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0332-reconstruct-itinerary) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0332-reconstruct-itinerary) |
 ## Topological Sort
 |  |
 | ------- |
@@ -265,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0324-wiggle-sort-ii) |
+| [0332-reconstruct-itinerary](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0332-reconstruct-itinerary) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -272,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0264-ugly-number-ii) |
+| [0332-reconstruct-itinerary](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0332-reconstruct-itinerary) |
 ## Quickselect
 |  |
 | ------- |
@@ -413,4 +419,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0316-remove-duplicate-letters) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Path
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0332-reconstruct-itinerary) |
+## Semi-Eulerian Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
