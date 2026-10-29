@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0330-patching-array) |
 | [0332-reconstruct-itinerary](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0332-reconstruct-itinerary) |
 | [0335-self-crossing](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0335-self-crossing) |
+| [0336-palindrome-pairs](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0336-palindrome-pairs) |
 ## Math
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0290-word-pattern) |
+| [0336-palindrome-pairs](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0336-palindrome-pairs) |
 ## String
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0316-remove-duplicate-letters) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0332-reconstruct-itinerary) |
+| [0336-palindrome-pairs](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0336-palindrome-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0212-word-search-ii) |
+| [0336-palindrome-pairs](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0336-palindrome-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0214-shortest-palindrome) |
+| [0336-palindrome-pairs](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0336-palindrome-pairs) |
 ## Manacher
 |  |
 | ------- |
