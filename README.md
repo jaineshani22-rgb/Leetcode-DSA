@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0330-patching-array) |
 | [0332-reconstruct-itinerary](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0332-reconstruct-itinerary) |
+| [0335-self-crossing](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0335-self-crossing) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0279-perfect-squares) |
+| [0335-self-crossing](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0335-self-crossing) |
 ## Enumeration
 |  |
 | ------- |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0223-rectangle-area) |
+| [0335-self-crossing](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0335-self-crossing) |
 ## Stack
 |  |
 | ------- |
