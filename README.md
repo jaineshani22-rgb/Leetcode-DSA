@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0337-house-robber-iii) |
+| [0338-counting-bits](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0338-counting-bits) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0338-counting-bits) |
 ## Tree
 |  |
 | ------- |
