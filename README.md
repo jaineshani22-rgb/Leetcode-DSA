@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0332-reconstruct-itinerary) |
 | [0336-palindrome-pairs](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0336-palindrome-pairs) |
+| [0344-reverse-string](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0234-palindrome-linked-list](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
+| [0344-reverse-string](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0344-reverse-string) |
 ## Bucket Sort
 |  |
 | ------- |
