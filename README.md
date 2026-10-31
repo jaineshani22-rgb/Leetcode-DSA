@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0279-perfect-squares) |
 | [0335-self-crossing](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0335-self-crossing) |
+| [0343-integer-break](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0343-integer-break) |
 ## Enumeration
 |  |
 | ------- |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0343-integer-break) |
 ## Rolling Hash
 |  |
 | ------- |
