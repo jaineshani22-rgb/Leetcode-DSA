@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0332-reconstruct-itinerary) |
 | [0335-self-crossing](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0336-palindrome-pairs) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0290-word-pattern) |
 | [0336-palindrome-pairs](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0336-palindrome-pairs) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0324-wiggle-sort-ii) |
 | [0332-reconstruct-itinerary](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0332-reconstruct-itinerary) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -322,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bucket Sort
 |  |
 | ------- |
