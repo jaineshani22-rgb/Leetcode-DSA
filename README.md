@@ -455,4 +455,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0337-house-robber-iii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
