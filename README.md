@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0290-word-pattern) |
 | [0336-palindrome-pairs](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0336-palindrome-pairs) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## String
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Trie
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0220-contains-duplicate-iii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -467,4 +471,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0182-duplicate-emails) |
+## Union-Find
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Data Stream
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
