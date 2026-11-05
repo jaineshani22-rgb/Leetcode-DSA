@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0336-palindrome-pairs) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Math
 |  |
 | ------- |
@@ -210,11 +211,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -323,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0220-contains-duplicate-iii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Two Pointers
 |  |
 | ------- |
