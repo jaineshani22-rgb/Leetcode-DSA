@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0279-perfect-squares) |
 | [0335-self-crossing](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0335-self-crossing) |
 | [0343-integer-break](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0343-integer-break) |
+| [0371-sum-of-two-integers](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0371-sum-of-two-integers) |
 ## Enumeration
 |  |
 | ------- |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0371-sum-of-two-integers) |
 ## Tree
 |  |
 | ------- |
