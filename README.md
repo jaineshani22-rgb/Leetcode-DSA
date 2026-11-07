@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0374-guess-number-higher-or-lower](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0374-guess-number-higher-or-lower) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -488,4 +489,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
