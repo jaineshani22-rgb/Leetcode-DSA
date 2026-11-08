@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0376-wiggle-subsequence](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0376-wiggle-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0343-integer-break) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0376-wiggle-subsequence](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0376-wiggle-subsequence) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0316-remove-duplicate-letters) |
 | [0324-wiggle-sort-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0330-patching-array) |
+| [0376-wiggle-subsequence](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0376-wiggle-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
