@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0335-self-crossing) |
 | [0343-integer-break](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0371-sum-of-two-integers) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0343-integer-break) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -493,4 +495,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Minimax
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
