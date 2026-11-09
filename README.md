@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0376-wiggle-subsequence](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0377-combination-sum-iv) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Math
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0374-guess-number-higher-or-lower](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0324-wiggle-sort-ii) |
 | [0332-reconstruct-itinerary](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0332-reconstruct-itinerary) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -314,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0264-ugly-number-ii) |
 | [0332-reconstruct-itinerary](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0332-reconstruct-itinerary) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Quickselect
 |  |
 | ------- |
