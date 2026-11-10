@@ -495,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0182-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0511-game-play-analysis-i) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0577-employee-bonus](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0577-employee-bonus) |
 ## Union-Find
 |  |
 | ------- |
