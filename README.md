@@ -505,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0619-biggest-single-number](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0620-not-boring-movies) |
+| [0626-exchange-seats](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0626-exchange-seats) |
 ## Union-Find
 |  |
 | ------- |
