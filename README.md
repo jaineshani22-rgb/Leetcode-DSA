@@ -510,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/1045-customers-who-bought-all-products) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/1068-product-sales-analysis-i) |
+| [1075-project-employees-i](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/1075-project-employees-i) |
 ## Union-Find
 |  |
 | ------- |
