@@ -514,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/1179-reformat-department-table) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/1204-last-person-to-fit-in-the-bus) |
+| [1211-queries-quality-and-percentage](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/1211-queries-quality-and-percentage) |
 ## Union-Find
 |  |
 | ------- |
