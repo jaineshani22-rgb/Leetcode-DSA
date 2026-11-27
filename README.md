@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0204-count-primes](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0212-word-search-ii) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0234-palindrome-linked-list](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0316-remove-duplicate-letters) |
 | [0324-wiggle-sort-ii](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/jaineshani22-rgb/Leetcode-DSA/tree/master/0330-patching-array) |
